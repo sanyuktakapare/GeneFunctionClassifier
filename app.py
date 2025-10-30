@@ -141,6 +141,7 @@ if predict_button:
 st.markdown("""
     <hr>
     <div style='text-align: center; font-size: 14px;'>
-        Developed by <b>Sanyukta Kapara</b> — Powered by <b>Streamlit</b> & <b>Scikit-learn</b>.
+        Developed by <b>Sanyukta Kapare</b> — Powered by <b>Streamlit</b> & <b>Scikit-learn</b>.
     </div>
 """, unsafe_allow_html=True)
+
